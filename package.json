@@ -1,0 +1,21 @@
+{
+	"author": "David Goehrig",
+	"name": "opifex.pip",
+	"license" : "MIT",
+	"description": "Route Management worker for pip Framework",
+	"version": "0.0.1",
+	"repository": {
+		"url": "http://github.com/cthulhuology/opifex.pip"
+	},
+	"main": "./lib/Pip.coffee",
+	"bin": {},
+	"dependencies": {
+		"opifex" : ">=0.0.9"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": ">=0.10.0"
+	}
+}
+
